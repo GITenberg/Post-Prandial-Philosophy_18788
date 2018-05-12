@@ -1,0 +1,28 @@
+_repo: Post-Prandial-Philosophy_18788
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allen, Grant
+    alias: Allen, Charles Grant Blairfindie
+    birthdate: 1848
+    deathdate: 1899
+    gutenberg_agent_id: '1452'
+    url: http://www.gutenberg.org/2009/agents/1452
+    wikipedia: http://en.wikipedia.org/wiki/Grant_Allen
+description: Cover -- Contents.
+gutenberg_issued: '2006-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18788'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PR'
+title: Post-Prandial Philosophy
+url: http://www.gutenberg.org/ebooks/18788
